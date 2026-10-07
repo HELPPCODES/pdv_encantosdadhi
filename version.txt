@@ -1,2 +1,2 @@
-1.1.0
+1.2.0
 https://raw.githubusercontent.com/HELPPCODES/pdv_encantosdadhi/main/Encantos_da_Dih.exe
