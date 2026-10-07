@@ -1,0 +1,29 @@
+# Banco de dados SQLite
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+encantos_dih.db
+
+# Ambiente virtual Python
+venv/
+.venv/
+env/
+
+# Arquivos temporários do Python e PyInstaller
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.spec
+
+# Arquivos gerados no auto-update / executáveis
+app_new.exe
+updater.bat
+
+# Arquivos do sistema / IDEs
+.vscode/
+.idea/
+.DS_Store
